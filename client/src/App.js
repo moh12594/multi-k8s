@@ -11,7 +11,7 @@ class App extends Component {
       <Router>
         <div className="App">
           <header className="App-header">
-            <h1 className="App-title">V2 calc</h1>
+            <h1 className="App-title">Fib calculator on KuBE !</h1>
             <Link to="/">Home</Link>
             <Link to="/otherpage">Other page</Link>
           </header>
